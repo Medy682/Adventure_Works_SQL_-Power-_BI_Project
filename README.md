@@ -2,6 +2,7 @@
 
 AdventureWorks Sales Analysis (SQL + Power BI)
 
+
 Project Overview
 
 
@@ -68,6 +69,9 @@ Southwest and Canada lead sales.
 
 Mountain-200 products dominate
 
+✅ Database
+
+Download AdventureWorks 2019 from the Microsoft official site
 
 
 👨‍🎓 Author 
